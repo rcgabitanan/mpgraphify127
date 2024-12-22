@@ -1,0 +1,385 @@
+.index-page {
+    background-image: url('Index Page.png');
+    background-size: cover;
+  }
+
+.login-page {
+    background-image: url('Login Page.png');
+    background-size: cover;
+}
+
+.signup-page {
+    background-image: url('Signup Page.png');
+    background-size: cover;    
+}
+
+.admin-page {
+    background-image: url('Admin Page.png');
+    background-size: cover;  
+}
+
+.create-receipt-page {
+    background-image: url('Create Receipt.png');
+    background-size: cover;      
+}
+
+.receipt-page {
+    background-image: url('Read, Edit, and Delete Receipt.png');
+    background-size: cover;     
+}
+
+.receipt-details-page {
+    background-image: url('Read, Edit, and Delete Receipt.png');
+    background-size: cover;     
+}
+
+.merch-items-admin-page {
+    background-image: url('Manage Merch Items Page.png');
+    background-size: cover;      
+}
+
+.merch-item-edit-page {
+    background-image: url('Edit Merch Item Page.png');
+    background-size: cover;       
+}
+
+.add-merch-page {
+    background-image: url('Add Merch Item Page.png');
+    background-size: cover;     
+}
+
+.merch-items-basic-user-page {
+    background-image: url('Merch Items Page.png');
+    background-size: cover;     
+}
+
+.login {
+    background-color: #4ABDAC;
+    border: 2px solid #FC4A1A;
+    border-radius: 30px;
+    box-shadow: #F7B733 4px 4px 0 0;
+    color: #FC4A1A;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+    position: relative;
+    top: 20px;
+    left: 1130px;
+}
+
+.login:hover {
+  background-color: #fff;
+}
+
+button:active {
+  box-shadow: #4ABDAC 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+.total-sold {
+    color:#F7B733;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+
+    position: fixed;
+    top: 140px;
+    left: 795px;
+}
+
+.image-button150 {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+
+    position: fixed;
+    top: 170px;
+    left: 1010px;
+}
+
+.best-selling {
+    color: #FC4A1A;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+    position: fixed;
+    top: 450px;
+    left: 755px;
+}
+
+.labels {
+    color: #FC4A1A
+}
+
+.login-button {
+    margin-top: 15px;
+    height: 40px;
+    width: 298px;
+    background-color: #FC4A1A;
+    color: aliceblue;
+    border-style: none;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.form-container {
+    position: relative;
+    top: 260px;
+    left: 39%;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+    color: #FC4A1A;
+}
+
+.field {
+    margin-top: 5px;
+    height: 30px;
+    width: 295px;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.total-orders {
+    color:#F7B733;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+
+    position: fixed;
+    top: 130px;
+    left: 835px;
+}
+
+.total-sales {
+    color: #FC4A1A;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+
+    position: fixed;
+    top: 435px;
+    left: 815px;
+}
+
+.receipt-list {
+    color: #FC4A1A;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+    position: fixed;
+    top: 250px;
+    left: 315px;
+}
+
+.create-receipt {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+
+    position: fixed;
+    top: 325px;
+    left: 152px;
+}
+
+.manage-merch {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+
+    position: fixed;
+    top: 170px;
+    left: 1040px;    
+}
+
+.cr-container {
+    position: relative;
+    top: 170px;
+    left: 270px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+    color: #FC4A1A;
+}
+
+.hdr {
+    font-size: 20pt;
+
+    position: relative;
+    left: 40px;
+}
+
+.create-receipt-button {
+    margin-top: 15px;
+    height: 40px;
+    width: 298px;
+    background-color: #FC4A1A;
+    color: aliceblue;
+    border-style: none;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    
+    position: relative;
+    left: 80px;
+}
+
+.back-admin-button {
+    background-color: #4ABDAC;
+    border: 2px solid #FC4A1A;
+    border-radius: 30px;
+    box-shadow: #F7B733 4px 4px 0 0;
+    color: #FC4A1A;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+    position: relative;
+    top: 20px;
+    left: 1030px;
+}
+
+.receipt-container {
+    position: fixed;
+    top: 215px;
+    left: 475px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+    color: #FC4A1A; 
+}
+
+.rhdr {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+    color: #FC4A1A; 
+
+    position: fixed;
+    top: 170px;
+    left: 560px;
+}
+
+.delete-button {
+    margin-top: 15px;
+    height: 40px;
+    width: 298px;
+    background-color: #FC4A1A;
+    color: aliceblue;
+    border-style: none;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    
+    position: fixed;
+    top: 510px;
+    left: 515px;
+}
+
+.merch-container {
+    position: fixed;
+    top: 265px;
+    left: 315px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+    color: #FC4A1A; 
+}
+
+.add-merch-button {
+    margin-top: 15px;
+    height: 40px;
+    width: 298px;
+    background-color: #FC4A1A;
+    color: aliceblue;
+    border-style: none;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+
+    position: relative;
+    top: 5px;
+    left: 200px;
+}
+
+.deleter {
+    background-color: #FC4A1A;
+    color: aliceblue;
+    border-style: none;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;   
+    cursor: pointer; 
+}
+
+.merch-edit-container {
+    position: fixed;
+    top: 240px;
+    left: 520px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+    color: #FC4A1A;     
+}
+
+.back-merch-admin-button {
+    background-color: #4ABDAC;
+    border: 2px solid #FC4A1A;
+    border-radius: 30px;
+    box-shadow: #F7B733 4px 4px 0 0;
+    color: #FC4A1A;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 18px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+
+    position: relative;
+    top: 20px;
+    left: 970px;    
+}
+
+.merch-container-basic-user {
+    position: fixed;
+    top: 265px;
+    left: 355px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+    color: #FC4A1A; 
+}
